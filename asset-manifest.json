@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FargoAssesment/static/css/main.26246c33.css",
+    "main.js": "/FargoAssesment/static/js/main.e2487ee3.js",
+    "static/js/453.7b94d2d1.chunk.js": "/FargoAssesment/static/js/453.7b94d2d1.chunk.js",
+    "index.html": "/FargoAssesment/index.html",
+    "main.26246c33.css.map": "/FargoAssesment/static/css/main.26246c33.css.map",
+    "main.e2487ee3.js.map": "/FargoAssesment/static/js/main.e2487ee3.js.map",
+    "453.7b94d2d1.chunk.js.map": "/FargoAssesment/static/js/453.7b94d2d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26246c33.css",
+    "static/js/main.e2487ee3.js"
+  ]
+}
