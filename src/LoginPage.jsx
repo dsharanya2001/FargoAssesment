@@ -14,7 +14,7 @@ const LoginPage = ({ setIsLoggedIn }) => {
       e.preventDefault(); 
 
       
-      if (email === "sharanya@gmail.com" && password === "sharu2015") {
+      if (email === "fargo@gmail.com" && password === "fargo") {
         setIsLoggedIn(true); 
         navigate('/assets'); 
       } else {
